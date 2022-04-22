@@ -1,4 +1,4 @@
-"""
+
 #utk cari waiting time for each process
 def WaitingTime(proc, n, bt, wt) :
 
@@ -53,6 +53,6 @@ burst_time = [10,5,8]
 
 AvgTime(process,n,burst_time)
 
-"""
+
 
 
